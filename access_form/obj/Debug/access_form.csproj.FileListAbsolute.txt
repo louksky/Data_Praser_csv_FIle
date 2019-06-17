@@ -1,0 +1,17 @@
+C:\Users\asafl\source\repos\access_form\access_form\bin\Debug\access_database.mdf
+C:\Users\asafl\source\repos\access_form\access_form\bin\Debug\access_database_log.ldf
+C:\Users\asafl\source\repos\access_form\access_form\bin\Debug\sqlouk.accdb
+C:\Users\asafl\source\repos\access_form\access_form\bin\Debug\access_form.exe.config
+C:\Users\asafl\source\repos\access_form\access_form\bin\Debug\access_form.exe
+C:\Users\asafl\source\repos\access_form\access_form\bin\Debug\access_form.pdb
+C:\Users\asafl\source\repos\access_form\access_form\obj\Debug\access_form.Form1.resources
+C:\Users\asafl\source\repos\access_form\access_form\obj\Debug\access_form.mainmain.resources
+C:\Users\asafl\source\repos\access_form\access_form\obj\Debug\access_form.Properties.Resources.resources
+C:\Users\asafl\source\repos\access_form\access_form\obj\Debug\access_form.query.resources
+C:\Users\asafl\source\repos\access_form\access_form\obj\Debug\access_form.csproj.GenerateResource.cache
+C:\Users\asafl\source\repos\access_form\access_form\obj\Debug\access_form.csproj.CoreCompileInputs.cache
+C:\Users\asafl\source\repos\access_form\access_form\obj\Debug\access_form.exe
+C:\Users\asafl\source\repos\access_form\access_form\obj\Debug\access_form.pdb
+C:\Users\asafl\source\repos\access_form\access_form\obj\Debug\access_form.chartshow.resources
+C:\Users\asafl\source\repos\access_form\access_form\obj\Debug\access_form.showchart.resources
+C:\Users\asafl\source\repos\access_form\access_form\obj\Debug\access_form.csprojAssemblyReference.cache
