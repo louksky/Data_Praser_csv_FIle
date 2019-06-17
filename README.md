@@ -9,5 +9,5 @@ C# CONVERT csv file into Chart
 this is an academic project need.
 windows :
 ![alt text](https://github.com/louksky/Data_Praser_csv_FIle/blob/master/Untitlsed.png)
-![alt text](https://github.com/louksky/Data_Praser_csv_FIle/blob/master/Untitled.png)
+![alt text](https://github.com/louksky/Data_Praser_csv_FIle/blob/master/Untitlessd.png)
 
